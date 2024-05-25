@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button"
 import "../app/globals.css"
 import PetCare from "./assets/petcare.jpg"
 import Paw from "./assets/Paw2.svg"
+import React from "react"
 
 const Login = () => {
     return (
