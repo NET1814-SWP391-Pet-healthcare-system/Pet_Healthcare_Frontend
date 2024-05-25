@@ -7,7 +7,9 @@ import Dashboard from './pages/Dashboard';
 import BookingForm from './components/BookingForm';
 import CalendarComponent from './components/CalendarComponent';
 import 'react-calendar/dist/Calendar.css';
+
 import Login from './pages/Login';
+
 
 const App = () => {
   return (
