@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import logo from '../../assets/react.svg';
+import { useState } from 'react';
+import logo from '@/assets/react.svg';
 import SearchBar from '../../components/SearchBar';
 
 
